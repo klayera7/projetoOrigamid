@@ -1,6 +1,6 @@
 # 🌐 Projeto de Treino: Responsividade Web
 
-Este repositório faz parte do meu processo de aprendizado em desenvolvimento front-end. O foco principal deste projeto é praticar e entender como tornar páginas web **responsivas**, ou seja, adaptáveis a diferentes tamanhos de tela — desde computadores até smartphones.
+Este repositório faz parte do meu processo de aprendizado em desenvolvimento front-end. O foco principal deste projeto é praticar e entender como tornar páginas web **responsivas**, ou seja, adaptáveis a diferentes tamanhos de tela, desde computadores até smartphones.
 
 ---
 
