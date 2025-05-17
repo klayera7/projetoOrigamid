@@ -17,10 +17,11 @@ body {
   width: 100%;
 }
 
-div {
+.container {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  width: 1000px;
+  width: 100%;
+  max-width: 1000px;
   gap: 10px;
   background-color:	#222222;
   border-radius: 8px;
@@ -173,3 +174,52 @@ footer {
   margin-bottom: 10px;
   color: #4c3963;
 }
+
+@media (max-width: 600px) {
+
+  .menu,li {
+    display: flex;
+    gap: 12px;
+  }
+  
+  .container {
+    grid-template-columns: 1fr;
+    width: 90%;
+    max-width: none;
+    padding: 4px;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+
+  .item1 {
+    width: 100%;
+    font-size: 1rem;
+  }
+
+   .item3 {
+    font-size: 3rem;
+   }
+
+    .item4 {
+      width: 96%;
+    }
+
+    .icone {
+      display: flex;
+      align-items: start;
+      margin-right: 270%;
+    }
+
+  img {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-top-right-radius: 0;
+  }
+
+  
+
+}
+
+

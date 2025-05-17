@@ -23,5 +23,6 @@ Este repositório faz parte do meu processo de aprendizado em desenvolvimento fr
 
 Esse projeto é uma etapa no meu plano de estudos. Em breve, pretendo:
 
-- **Revisar** os principais conceitos de responsividade.
+- **Revisar** os principais conceitos de responsividade, ainda há muito a aprender! Acho que para o primeiro contato com **media queries** o resultado deixa muito a desejar, mas cumpre seu papel.
+ 
 - **Introduzir JavaScript** nos projetos, agregando mais interatividade às páginas.
